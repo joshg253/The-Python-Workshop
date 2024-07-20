@@ -3,7 +3,7 @@ apipkg==1.5
 Babel==2.9.1
 backcall==0.2.0
 bleach==3.3.0
-certifi==2024.7.4
+certifi==2023.7.22
 chardet==3.0.4
 colorama==0.4.3
 cycler==0.10.0
@@ -57,4 +57,4 @@ urllib3==1.26.19
 webencodings==0.5.1
 wincertstore==0.2
 zipp==3.1.0
-setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
